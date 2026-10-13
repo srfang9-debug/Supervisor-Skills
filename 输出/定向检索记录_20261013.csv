@@ -1,0 +1,36 @@
+﻿编号,日期_Asia_Shanghai,渠道,检索式,说明
+Q01,2026-10-13,公开网页检索,photovoltaic forecasting historical power weather forecast lead time ablation contribution,实际执行；非订阅数据库检索，不代表穷尽结果
+Q02,2026-10-13,公开网页检索,solar forecasting feature contribution ablation forecast horizon real weather forecasts,实际执行；非订阅数据库检索，不代表穷尽结果
+Q03,2026-10-13,公开网页检索,photovoltaic SHAP retraining faithfulness horizon seasonal,实际执行；非订阅数据库检索，不代表穷尽结果
+Q04,2026-10-13,公开网页检索,光伏 预测 气象预报 历史功率 消融 提前量 信息贡献,实际执行；非订阅数据库检索，不代表穷尽结果
+Q05,2026-10-13,公开网页检索,"""A generic methodology to efficiently integrate weather information"" forecasting lead time authors",实际执行；非订阅数据库检索，不代表穷尽结果
+Q06,2026-10-13,公开网页检索,"""Seasonal explainability in machine learning-based solar forecasting"" DOI authors",实际执行；非订阅数据库检索，不代表穷尽结果
+Q07,2026-10-13,公开网页检索,"""基于LSTM模型的短期光伏功率预测"" 气象 24小时 72小时",实际执行；非订阅数据库检索，不代表穷尽结果
+Q08,2026-10-13,公开网页检索,"""photovoltaic"" ""forecast age"" historical power ablation",实际执行；非订阅数据库检索，不代表穷尽结果
+Q09,2026-10-13,公开网页检索,"""photovoltaic forecasting"" ""latency"" ""weather"" availability",实际执行；非订阅数据库检索，不代表穷尽结果
+Q10,2026-10-13,公开网页检索,"""A generic methodology"" ""Bellinguer"" ""hal"" pdf",实际执行；非订阅数据库检索，不代表穷尽结果
+Q11,2026-10-13,公开网页检索,"""Physics-as-a-layer multi-task forecasting"" ""2026""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q12,2026-10-13,公开网页检索,"photovoltaic ""SHAP"" ""retraining"" ""ablation""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q13,2026-10-13,公开网页检索,"photovoltaic ""feature importance"" ""drop-column"" forecasting",实际执行；非订阅数据库检索，不代表穷尽结果
+Q14,2026-10-13,公开网页检索,"""Rethinking the use of deep learning methods"" ""ablation"" ""historical""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q15,2026-10-13,公开网页检索,"""Towards reliable solar power forecasting in Sub-Saharan Africa"" ""ablation""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q16,2026-10-13,公开网页检索,"""Seasonal explainability"" ""113912"" ""Available online""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q17,2026-10-13,公开网页检索,"""Photovoltaic Power Forecasting with AI: A Cost"" ""2026"" SHAP",实际执行；非订阅数据库检索，不代表穷尽结果
+Q18,2026-10-13,公开网页检索,"""Rethinking the use"" ""s41467-026-73817-3"" ""ablation"" history weather",实际执行；非订阅数据库检索，不代表穷尽结果
+Q19,2026-10-13,公开网页检索,"""Photovoltaic Power Forecasting with AI"" ""291"" ""Authors""",实际执行；非订阅数据库检索，不代表穷尽结果
+Q20,2026-10-13,公开网页检索,"""MambaFormer-TPEF"" ""SHAP"" ""ablation"" forecast input",实际执行；非订阅数据库检索，不代表穷尽结果
+Q21,2026-10-13,公开网页检索,"""Towards reliable solar power forecasting"" ""2026"" Demirci historical forecasting",实际执行；非订阅数据库检索，不代表穷尽结果
+回查-P01,2026-10-13,出版社/作者/机构页面回查,https://www.nature.com/articles/s41467-026-73817-3,T：出版社索引正文关键段落
+回查-P02,2026-10-13,出版社/作者/机构页面回查,https://cphoto.fit.vutbr.cz/solar/data/paper/polasek21solar.pdf,T：作者稿关键正文；版本需区分
+回查-P03,2026-10-13,出版社/作者/机构页面回查,https://arxiv.org/html/2609.15035v1,T：预印本关键正文
+回查-P04,2026-10-13,出版社/作者/机构页面回查,https://arxiv.org/html/2607.12954v1,T：预印本关键正文
+回查-P05,2026-10-13,出版社/作者/机构页面回查,https://www.tynxb.org.cn/CN/10.19912/j.0254-0096.tynxb.2023-0340,S：官方题录与中英文摘要
+回查-P06,2026-10-13,出版社/作者/机构页面回查,https://doi.org/10.1016/j.solener.2022.08.042,S：出版社摘要与作者机构题录
+回查-P07,2026-10-13,出版社/作者/机构页面回查,https://www.nature.com/articles/s41598-026-49373-7,S：出版社摘要/索引；PDF取得但细节仍需复核
+回查-P08,2026-10-13,出版社/作者/机构页面回查,https://doi.org/10.1016/j.epsr.2026.113181,S：出版社索引方法/结果片段；全文访问失败
+回查-P09,2026-10-13,出版社/作者/机构页面回查,https://arxiv.org/abs/2108.04058,S：出版社摘要与作者预印本摘要
+回查-P10,2026-10-13,出版社/作者/机构页面回查,https://eprints.whiterose.ac.uk/id/eprint/240947/1/1-s2.0-S235248472500873X-main.pdf,T：机构库终刊PDF关键正文
+回查-P11,2026-10-13,出版社/作者/机构页面回查,https://www.sciencedirect.com/science/article/pii/S0378779626012010,U：有出版社摘要线索；版本时间待核
+回查-P12,2026-10-13,出版社/作者/机构页面回查,https://www.mdpi.com/1999-5903/18/6/291,S：出版社题录与索引片段；直接全文429
+回查-P13,2026-10-13,出版社/作者/机构页面回查,https://www.sciencedirect.com/science/article/pii/S2772940026000275,S：出版社摘要；综述导航证据
+回查-P14,2026-10-13,出版社/作者/机构页面回查,https://www.nature.com/articles/s41598-026-51529-4,T：出版社索引关键方法段落
